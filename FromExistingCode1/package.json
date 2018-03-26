@@ -1,0 +1,11 @@
+{
+  "name": "GradebookLambda2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gradebook.js",
+  "author": "TCS",
+  "dependencies": {
+    "aws-sdk": "^2.213.1",
+    "request": "^2.85.0"
+  }
+}
